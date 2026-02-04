@@ -1,22 +1,6 @@
 # Trifalic47 (aka r00tgr3p)
 
-Python • C • Penetration Testing • Linux (Arch)
-Building offensive security tools and low-level systems
-I have keen interest in programming and trying new tools and operating systems and making new configs for my producitivity setup so that I can do work with ease.
-
-## Technical Skills
-**Languages**
-- Python (automation, recon tools, parsers)
-- C (networking, memory, system-level programs)
-
-**Security**
-- Web pentesting 
-- Networking fundamentals 
-
-**Systems**
-- Arch Linux, bash, git
-- Neovim, terminal-based workflow
-
+Hey👋r00tgr3p here.I am an peneteration tester and Python & C programmer.
 
 ## Connect with me
 
