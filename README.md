@@ -1,8 +1,24 @@
-# Trifalic47 (aka r00tgr3p)
+# Trifalic47
 
-Hey👋r00tgr3p here.I am an vulnerability researcher and Python & C programmer.
+Vulnerability researcher focused on memory corruption, binary exploitation, and low-level systems internals.
 
-## Connect with me
+Currently working through the full stack from the ground up — C, x86-64 assembly, OS internals, and hardware. 
+No shortcuts. No abstractions until I understand what's underneath them.
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r00tgr3p/)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@r00tgr3p)
+**Areas of focus**
+- Memory corruption & exploit development
+- Syscall-level systems programming
+- Binary analysis & reverse engineering
+- Low-level C — no libc, no malloc, just syscalls and intent
+
+**Current work**
+- CS:APP (Bryant & O'Hallaron) — Chapters 2, 3, 6, 7, 8, 9
+- Syscall-only C tooling built from scratch
+- CTF challenges focused on binary exploitation
+
+**Stack**
+- Arch Linux · Neovim · x86-64 · GDB · tmux
+
+---
+
+*Still in school. Don't care.*
