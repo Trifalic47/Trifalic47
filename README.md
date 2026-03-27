@@ -1,6 +1,6 @@
 # Trifalic47 (aka r00tgr3p)
 
-Hey👋r00tgr3p here.I am an peneteration tester and Python & C programmer.
+Hey👋r00tgr3p here.I am an vulnerability researcher and Python & C programmer.
 
 ## Connect with me
 
