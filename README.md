@@ -19,6 +19,3 @@ No shortcuts. No abstractions until I understand what's underneath them.
 **Stack**
 - Arch Linux · Neovim · x86-64 · GDB · tmux
 
----
-
-*Still in school. Don't care.*
