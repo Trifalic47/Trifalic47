@@ -1,4 +1,4 @@
-# Trifalic47
+# Trifalic47 aka Tanishq
 
 Vulnerability researcher focused on memory corruption, binary exploitation, and low-level systems internals.
 
