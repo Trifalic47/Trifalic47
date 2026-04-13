@@ -13,7 +13,7 @@ No shortcuts. No abstractions until I understand what's underneath them.
 - Low-level C — no libc, no malloc, just syscalls and intent
 
 **Current work**
-- CS:APP (Bryant & O'Hallaron) — Chapters 2, 3, 6, 7, 8, 9
+- CS:APP (Bryant & O'Hallaron) 
 - Syscall-only C tooling built from scratch
 - CTF challenges focused on binary exploitation
 
