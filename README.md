@@ -20,3 +20,6 @@ No shortcuts. No abstractions until I understand what's underneath them.
 **Stack**
 - Arch Linux · Neovim · x86-64 · GDB · tmux
 
+**Website**
+- Check https://trifalic47.github.io
+  
