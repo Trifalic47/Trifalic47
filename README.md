@@ -1,5 +1,6 @@
 # Trifalic47 aka Tanishq
 
+Hi my real name is Tanishq.
 Vulnerability researcher focused on memory corruption, binary exploitation, and low-level systems internals.
 
 Currently working through the full stack from the ground up — C, x86-64 assembly, OS internals, and hardware. 
