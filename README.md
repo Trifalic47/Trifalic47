@@ -9,7 +9,6 @@ Currently working through the full stack from the ground up — C, x86-64 assemb
 - Memory corruption & exploit development
 - Syscall-level systems programming
 - Binary analysis & reverse engineering
-- Low-level C — no libc, no malloc, just syscalls and intent
 
 **Website**
 - Check https://trifalic47.github.io
